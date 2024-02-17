@@ -1,20 +1,32 @@
-# Hi there! 👋
-Welcome to my profile! 
+# Welcome to My GitHub Profile! 👋
 
-I'm **GreenDude5** and I have no idea what to do with myself... 😕
+Hey there! Thanks for stopping by. Here's a little about me:
 
-There is not much to see here, but thx for sticking around. 🥰
+## About Me
 
-# What can I do? 🤔
-good question!
+I'm a passionate learner and enthusiast exploring the vast world of programming and technology. Currently, I'm focusing on honing my skills in various areas:
 
-make a sandwich I guess... 😐
+- **Python:** Currently learning and experimenting with Python to build versatile applications. 🐍
+- **PHP:** Delving into PHP development to understand its intricacies and power in web development. 💻
+- **JavaScript/TypeScript:** Exploring the wonders of JavaScript/TypeScript and its frameworks to create dynamic and interactive web experiences. 🌐
+- **Next.js:** Diving into Next.js to build modern, performant web applications with React. ⚛️
+- **Discord.py & Discord.js:** Having fun with Discord bot development using Python and JavaScript. 🤖
+- **Lua:** Exploring Lua for game development and scripting. 🎮
 
-# Programming stuff? 💻
-Python🐍 - still learning ig
+In my free time, I enjoy playing video games, immersing myself in virtual worlds, and listening to music. 🎶
 
-JavaScript🦄 - still learning ig
+## Fun Fact
 
-PHP🤖 - still learning ig
+Did you know that I have a forklift operator certification? Yes, I can operate a forklift like a pro!
 
-and much more, also in learning phase (grind never ends🗿)
+## What I Do
+
+- 🚀 Develop cool projects
+- 🤖 Play around with Discord bots
+- 🎮 Create games on Roblox
+
+## Get in Touch
+
+Currently, you can only reach me on Discord: `pepof`
+
+Looking forward to collaborating and learning together! ✨
