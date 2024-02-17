@@ -2,7 +2,9 @@
 
 Hey there! Thanks for stopping by. Here's a little about me:
 
-## About Me
+## 🌟 About Me 🌟
+
+I'm GreenDude5/pepoF - I go by many names. I'm a young man from Poland 🇵🇱 seeking my way on the journey called 'life'.
 
 I'm a passionate learner and enthusiast exploring the vast world of programming and technology. Currently, I'm focusing on honing my skills in various areas:
 
@@ -15,17 +17,17 @@ I'm a passionate learner and enthusiast exploring the vast world of programming 
 
 In my free time, I enjoy playing video games, immersing myself in virtual worlds, and listening to music. 🎶
 
-## Fun Fact
+## 🎉 Fun Fact 🎉
 
 Did you know that I have a forklift operator certification? Yes, I can operate a forklift like a pro!
 
-## What I Do
+## 💼 What I Do 💼
 
 - 🚀 Develop cool projects
 - 🤖 Play around with Discord bots
 - 🎮 Create games on Roblox
 
-## Get in Touch
+## 📫 Get in Touch 📫
 
 Currently, you can only reach me on Discord: `pepof`
 
