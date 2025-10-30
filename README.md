@@ -1,34 +1,74 @@
-# Welcome to My GitHub Profile! 👋
+# 👋 Welcome to My GitHub Profile!
 
 Hey there! Thanks for stopping by. Here's a little about me:
 
+---
+
 ## 🌟 About Me 
 
-I'm Piotr, young man from Poland 🇵🇱 seeking my way on the journey called 'life'.
+I'm **Piotr**, a young man from **Poland 🇵🇱** seeking my way on the journey called *life*.
 
-- 📚 Studing Computer Engineering at the Opole University of Technology, Poland
-- 🎵 Love listening to music and playing video games
-- 💻 Passionate about learning new technologies
-- 🚜 **Fun fact:** I'm licensed to operate a forklift!
+- 📚 Studying **Computer Engineering** at the **Opole University of Technology**, Poland  
+- 🎵 I love listening to music and playing video games  
+- 💻 Passionate about learning new technologies  
+- 🚜 **Fun fact:** I'm licensed to operate a forklift!  
 
-## 🛠️ Tech Stack & Skills
+---
 
-**Programming Languages & Markup:**
+## 🧰 Tools I Use Frequently
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" title="Visual Studio"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" title="Visual Studio Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" width="40" height="40" title="Fedora Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" title="Windows"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="40" height="40" title="PowerShell"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" title="Bash"/>
+</p>
+
+---
+
+## 💻 Languages & Technologies
+
+### 🧠 Programming Languages
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" title="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" title="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="40" height="40" title="Lua"/>
+</p>
+
+### 🌐 Web Technologies
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS3"/>
+</p>
+
+### ⚙️ Backend / Databases
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" title="SQLite"/>
+</p>
+
+---
+
+## 🚀 Currently Exploring
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" title="C# .NET"/>
+  <img src="https://logo.svgcdn.com/logos/htmx.png" width="40" height="40" title="HTMX"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
 
 ![GreenDude5's Stats](https://github-readme-stats.vercel.app/api?username=GreenDude5&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-## 📫 Get in Touch 📫
+---
 
-Check out my Linkedin: [Piotr Stocki](https://www.linkedin.com/in/piotr-stocki-7795142b3/)
+## 📫 Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Piotr%20Stocki-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/piotr-stocki-7795142b3/)
